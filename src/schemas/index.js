@@ -9,12 +9,14 @@ const typeDef = `
     }
 
     type Library {
+        _id: ID
         name: String!
         city: String
         books: [Book]
     }
 
     type Book {
+        _id: ID
         name: String!
         prologue: String
         author: String!
