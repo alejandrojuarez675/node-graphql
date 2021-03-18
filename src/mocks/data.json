@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Library San Martin",
+        "city": "Rosario",
+        "books": [
+            {
+                "_id": 1234,
+                "name": "El Quijote",
+                "author": "Miguel Cervantes",
+                "year": 1605,
+                "prologue": "Don Quijote de la Mancha​ es una novela escrita por el español Miguel de Cervantes Saavedra. Publicada su primera parte con el título de El ingenioso hidalgo don Quijote de la Mancha a comienzos"
+            },
+            {
+                "_id": 12346,
+                "name": "1984",
+                "author": "George Orwell",
+                "year": 1949
+            }
+        ]
+    },
+    {
+        "name": "Library San Miguel",
+        "city": "Rosario",
+        "books": [
+            {
+                "_id": 12346,
+                "name": "1984",
+                "author": "George Orwell",
+                "year": 1949
+            }
+        ]
+    }
+]
