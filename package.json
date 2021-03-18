@@ -24,7 +24,9 @@
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
     "@babel/node": "^7.12.10",
+    "@babel/plugin-syntax-json-strings": "^7.8.3",
     "@babel/preset-env": "^7.12.11",
+    "babel-plugin-inline-json-import": "^0.3.2",
     "nodemon": "^2.0.7"
   },
   "description": ""
